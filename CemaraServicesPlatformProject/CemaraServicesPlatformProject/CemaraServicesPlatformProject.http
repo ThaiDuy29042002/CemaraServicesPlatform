@@ -1,0 +1,6 @@
+@CemaraServicesPlatformProject_HostAddress = http://localhost:5079
+
+GET {{CemaraServicesPlatformProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
